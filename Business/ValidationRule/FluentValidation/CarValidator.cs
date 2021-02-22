@@ -8,5 +8,8 @@ namespace Business.ValidationRule.FluentValidation
     {
 
         //nur 
+        //qnur q
+        //nur 
+        
     }
 }
